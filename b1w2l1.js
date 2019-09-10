@@ -20,6 +20,3 @@ var leeftijd = prompt('vul je leeftijd in') //Maakt een leeftijd variable aan en
 document.write (leeftijd) //Schrijft leeftijd op
 document.write("<br />") //Doet een enter
 
-var a = parseInt(document.querySelector("#Value1").Value1)
-
-document.write(a)
